@@ -1,0 +1,62 @@
+[
+    {
+      "image": "images/1.jpg",
+      "title": "H&M",
+      "price": "2000₽",
+      "description": "Худи оверсайз"
+    },
+    {
+      "image": "images/2.jpg",
+      "title": "zara",
+      "price": "1400₽",
+      "description": "Футболка с Джотаро L"
+    },
+    {
+      "image": "images/3.jpg",
+      "title": "uniqlo",
+      "price": "4000₽",
+      "description": "Осенняя куртка оверсайз"
+    },
+    {
+      "image": "images/4.jpg",
+      "title": "Стрела Реквием",
+      "price": "1000000000000000₽",
+      "description": "Gold experience requem"
+    },
+    {
+      "image": "images/5.jpg",
+      "title": "H&M",
+      "price": "2000₽",
+      "description": "Штаны Cargo M"
+    },
+    {
+      "image": "images/6.jpg",
+      "title": "Logitech",
+      "price": "7000₽",
+      "description": "G435"
+    },
+    {
+      "image": "images/7.jpg",
+      "title": "Mistery Box",
+      "price": "2500₽",
+      "description": "Секретка ????"
+    },
+    {
+      "image": "images/8.jpg",
+      "title": "HyperX",
+      "price": "8000₽",
+      "description": "Alloy origin 60"
+    },
+    {
+      "image": "images/9.jpg",
+      "title": "Шедевр от sucker punch",
+      "price": "4000₽",
+      "description": "Ghost of thushima"
+    },
+    {
+      "image": "images/10.jpg",
+      "title": "Palit",
+      "price": "3000$",
+      "description": "RTX4090ti Gamerock 24gb"
+    }
+  ]
